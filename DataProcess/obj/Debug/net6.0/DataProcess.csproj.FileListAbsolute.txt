@@ -1,0 +1,5 @@
+D:\C#\Project_Prn211\DataProcess\obj\Debug\net6.0\DataProcess.csproj.AssemblyReference.cache
+D:\C#\Project_Prn211\DataProcess\obj\Debug\net6.0\DataProcess.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Project_Prn211\DataProcess\obj\Debug\net6.0\DataProcess.AssemblyInfoInputs.cache
+D:\C#\Project_Prn211\DataProcess\obj\Debug\net6.0\DataProcess.AssemblyInfo.cs
+D:\C#\Project_Prn211\DataProcess\obj\Debug\net6.0\DataProcess.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+D:\C#\Project_Prn211\Frm_Project\obj\Debug\net6.0-windows\Frm_Project.csproj.AssemblyReference.cache
+D:\C#\Project_Prn211\Frm_Project\obj\Debug\net6.0-windows\Frm_Project.AccountDetail.resources
+D:\C#\Project_Prn211\Frm_Project\obj\Debug\net6.0-windows\Frm_Project.CategoryDetail.resources
+D:\C#\Project_Prn211\Frm_Project\obj\Debug\net6.0-windows\Project_PRN211.Form1.resources
+D:\C#\Project_Prn211\Frm_Project\obj\Debug\net6.0-windows\Frm_Project.frm_Account.resources
+D:\C#\Project_Prn211\Frm_Project\obj\Debug\net6.0-windows\Frm_Project.frm_BookCategory.resources
+D:\C#\Project_Prn211\Frm_Project\obj\Debug\net6.0-windows\Project_PRN211.frm_BookDetail.resources
+D:\C#\Project_Prn211\Frm_Project\obj\Debug\net6.0-windows\Frm_Project.frm_Menu.resources
+D:\C#\Project_Prn211\Frm_Project\obj\Debug\net6.0-windows\Project_PRN211.login.resources
+D:\C#\Project_Prn211\Frm_Project\obj\Debug\net6.0-windows\Frm_Project.csproj.GenerateResource.cache
+D:\C#\Project_Prn211\Frm_Project\obj\Debug\net6.0-windows\Frm_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Project_Prn211\Frm_Project\obj\Debug\net6.0-windows\Frm_Project.AssemblyInfoInputs.cache
+D:\C#\Project_Prn211\Frm_Project\obj\Debug\net6.0-windows\Frm_Project.AssemblyInfo.cs
+D:\C#\Project_Prn211\Frm_Project\obj\Debug\net6.0-windows\Frm_Project.csproj.CoreCompileInputs.cache
